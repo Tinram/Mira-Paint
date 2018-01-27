@@ -9,7 +9,7 @@ The Gumowski-Mira equation was developed at CERN in 1980 by I. Gumowski and C. M
 
 ## Build
 
-Using Flex compiler on Linux / Windows:
+Using the Flex compiler on Linux / Windows:
 
         ./mxmlc MiraPaint.as
 
@@ -20,7 +20,7 @@ Using Flex compiler on Linux / Windows:
 
 Most browsers, because of revised security, will not now load a Flash *.swf* directly.
 
-*MiraRunner.html* provides some old code to load Mira Paint into a browser.
+*MiraRunner.html* and the *js/* directory provide old code to load and execute *MiraPaint.swf* in a browser.
 
 
 ## License
