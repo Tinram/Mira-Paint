@@ -1,15 +1,19 @@
 
 # Mira Paint
 
-#### Mira Fractal paint demo using the Gumowski-Mira equation.
+#### Mira fractal paint demo using the Gumowski-Mira equation.
 
 
-The Gumowski-Mira equation was developed at CERN in 1980 by I. Gumowski and C. Mira to calculate the trajectories of sub-atomic particles.
+At CERN in 1980, I. Gumowski and C. Mira devised their equation to calculate the trajectories of sub-atomic particles.
+
+A side effect of the equation is the generation of some quite interesting patterns.
+
+And with the relatively fast pixel-plotting of ActionScript 3, the equation can become a spray pattern.
 
 
 ## Execute
 
-Most browsers, because of revised security, will now now load a Flash *.swf* directly.
+Most browsers, because of revised security, will now not load a Flash *.swf* directly.
 
 *MiraRunner.html* and the *js/* directory provide old code to run *MiraPaint.swf* in a browser.
 
