@@ -18,9 +18,11 @@ And with the relatively fast pixel-plotting of ActionScript 3, the equation can 
 
 ## Controls
 
-        paint              <kbd>mouse left</kbd> *down*, *hold* to spray
-        colour change      <kbd>mouse left</kbd> *release*, then *down*
-        clear              <kbd>spacebar</kbd>
+action | key | |
+---- | ---- | ---- | ---- |
+paint | <kbd>mouse left</kbd> *down* | *hold* to spray |
+colour change | <kbd>mouse left</kbd> *release*, then *down* | |
+clear | <kbd>spacebar</kbd> | |
 
 
 ## Build
