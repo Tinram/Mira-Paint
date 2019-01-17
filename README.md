@@ -11,18 +11,16 @@ A side effect of the equation is the generation of some quite interesting patter
 And with the relatively fast pixel-plotting of ActionScript 3, the equation can become a spray pattern.
 
 
-## Execute
+## Demo
 
-Most browsers, because of revised security, will now not load a Flash *.swf* directly.
-
-*MiraRunner.html* and the *js/* directory provide old code to run *MiraPaint.swf* in a browser.
+[Mira Paint](http://copysense.co.uk/mira/MiraPaint.swf)
 
 
 ## Controls
 
-        paint              mouse left button down, hold to spray
-        colour change      mouse left button release, then down
-        clear              <spacebar>
+        paint              <kbd>mouse left</kbd> *down*, *hold* to spray
+        colour change      <kbd>mouse left</kbd> *release*, then *down*
+        clear              <kbd>spacebar</kbd>
 
 
 ## Build
@@ -32,6 +30,13 @@ Using the Flex compiler on Linux / Windows:
         ./mxmlc MiraPaint.as
 
         mxmlc MiraPaint.as
+
+
+## Execute
+
+Most browsers, because of revised security, will now not load a Flash *.swf* directly.
+
+*MiraRunner.html* and the *js/* directory provide old code to run *MiraPaint.swf* in a browser.
 
 
 ## License
