@@ -11,6 +11,10 @@ A side effect of the equation is the generation of some quite interesting patter
 And with the relatively fast pixel-plotting of ActionScript 3, the equation can become a spray pattern.
 
 
+[1]: https://tinram.github.io/images/mira-paint.gif
+![Mira-Paint][1]
+
+
 ## Demo
 
 [Mira Paint](http://copysense.co.uk/mira/MiraPaint.swf)
