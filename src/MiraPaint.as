@@ -5,7 +5,7 @@
 	* Mira Fractal painting demo using the Gumowski-Mira equation.
 	* The Gumowski-Mira equation was developed at CERN in 1980 by I. Gumowski and C. Mira to calculate the trajectories of sub-atomic particles.
 	*
-	* @author      Martin Latter <copysense.co.uk>
+	* @author      Martin Latter
 	* @copyright   Martin Latter 09/06/2008
 	* @version     3.0
 	* @license     The MIT License (MIT)
