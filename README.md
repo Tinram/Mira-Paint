@@ -4,11 +4,11 @@
 #### Mira fractal paint demo using the Gumowski-Mira equation.
 
 
-At CERN in 1980, I. Gumowski and C. Mira devised their equation to calculate the trajectories of sub-atomic particles.
+At CERN in 1980, I. Gumowski and C. Mira devised an equation to calculate the trajectories of sub-atomic particles.
 
 A side effect of the equation is the generation of some quite interesting patterns.
 
-And with the relatively fast pixel-plotting of ActionScript 3, the equation can become a spray pattern.
+And with the relatively fast pixel-plotting of ActionScript 3, the equation can create a spray pattern.
 
 
 [1]: https://tinram.github.io/images/mira-paint.gif
@@ -23,8 +23,8 @@ And with the relatively fast pixel-plotting of ActionScript 3, the equation can 
 ## Controls
 
 action | key | |
----- | ---- | ---- |
-paint | <kbd>mouse left</kbd> *down* | *hold* to spray |
+:--- | :--- | :--- |
+paint | <kbd>mouse left</kbd> *down* | button *hold* to spray |
 colour change | <kbd>mouse left</kbd> *release*, then *down* | |
 clear | <kbd>spacebar</kbd> | |
 
