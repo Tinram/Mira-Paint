@@ -15,11 +15,6 @@ And with the relatively fast pixel-plotting of ActionScript 3, the equation can 
 ![Mira-Paint][1]
 
 
-## Demo
-
-[Mira Paint](http://copysense.co.uk/mira/MiraPaint.swf)
-
-
 ## Controls
 
 action | key | |
